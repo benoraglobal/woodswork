@@ -57,7 +57,7 @@ export default function Home() {
 
       {/* Services Section */}
       <section ref={servicesRef} className="w-full py-20 bg-gray-50">
-        <h2 className="text-3xl font-bold text-foreground mb-12 text-center">Our Services</h2>
+        <h2 className="text-3xl font-bold text-foreground mb-12 text-center">Custom Wood Decor & Art</h2>
         <div className="max-w-6xl mx-auto grid grid-cols-1 sm:grid-cols-3 gap-8 px-6">
 
           {/* Card 1 */}
@@ -98,7 +98,7 @@ export default function Home() {
               className="w-full h-64 object-cover"
             />
             <div className="p-4">
-              <h3 className="text-xl font-semibold mb-2">Whiskey Holder</h3>
+              <h3 className="text-xl font-semibold mb-2">Whiskey & Wine Caddy's</h3>
               <p className="text-gray-700 text-sm">
                 Stylish wooden whiskey holder to showcase your favorite bottles in style.
               </p>
