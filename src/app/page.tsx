@@ -100,7 +100,7 @@ export default function Home() {
             <div className="p-4">
               <h3 className="text-xl font-semibold mb-2">Whiskey & Wine Caddy&#39;s</h3>
               <p className="text-gray-700 text-sm">
-                Stylish wooden whiskey holder to showcase your favorite bottles in style.
+                Stylish wooden whiskey and wine caddy&#39;s to showcase your favorite bottles in style.
               </p>
             </div>
           </div>
