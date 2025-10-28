@@ -98,7 +98,7 @@ export default function Home() {
               className="w-full h-64 object-cover"
             />
             <div className="p-4">
-              <h3 className="text-xl font-semibold mb-2">Whiskey & Wine Caddy's</h3>
+              <h3 className="text-xl font-semibold mb-2">Whiskey & Wine Caddy&#39;s</h3>
               <p className="text-gray-700 text-sm">
                 Stylish wooden whiskey holder to showcase your favorite bottles in style.
               </p>
